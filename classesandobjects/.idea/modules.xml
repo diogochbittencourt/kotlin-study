@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/classesandobjects.iml" filepath="$PROJECT_DIR$/.idea/modules/classesandobjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/classesandobjects_main.iml" filepath="$PROJECT_DIR$/.idea/modules/classesandobjects_main.iml" group="classesandobjects" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/classesandobjects_test.iml" filepath="$PROJECT_DIR$/.idea/modules/classesandobjects_test.iml" group="classesandobjects" />
+    </modules>
+  </component>
+</project>
